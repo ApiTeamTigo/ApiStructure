@@ -1,1 +1,2 @@
 some code... v.1.0.0
+Bug fixes included in v.1.0.1
